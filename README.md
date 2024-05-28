@@ -1,3 +1,4 @@
+LOCAL
 # Merge-conflits
 
 Détails de la quête
