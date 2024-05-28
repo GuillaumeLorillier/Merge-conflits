@@ -1,5 +1,4 @@
 LOCAL
-# Merge-conflits
 
 Détails de la quête
 Crée un nouveau dépôt sur GitHub, en cochant "Initialize this repository with a README".
